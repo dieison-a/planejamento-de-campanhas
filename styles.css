@@ -3,10 +3,10 @@
   color:#312534;
   background:#fcf5ee;
   --tinta:#312534;
-  --coral:#ee6e53;
+  --coral:#a9432e;
   --rosa:#f4c2b5;
   --amarelo:#f6d766;
-  --suave:#8d7f82;
+  --suave:#5f5557;
   --linha:#eadbd3
 }
 * {
@@ -45,7 +45,7 @@ header {
   letter-spacing:.11em
 }
 .etiqueta {
-  color:#a18988
+  color:#5f4a49
 }
 main {
   max-width:1120px;
@@ -77,7 +77,7 @@ main {
   max-width:540px;
   font-size:13px;
   line-height:1.75;
-  color:#887b7e
+  color:#5f5557
 }
 .cartao-campanha {
   background:var(--amarelo);
@@ -91,7 +91,7 @@ main {
   box-shadow:8px 8px 0 #f4c2b5
 }
 .cartao-campanha>span,.cartao-campanha>i {
-  color:#806c45;
+  color:#59451a;
   font-size:8px;
   font-style:normal
 }
@@ -127,7 +127,7 @@ main {
   border:1px solid #f1d7c8;
   border-radius:20px;
   padding:8px 10px;
-  color:#bf6e56;
+  color:#843d2d;
   font-size:8px
 }
 .rotulo-orcamento {
@@ -174,7 +174,7 @@ input[type=range]::-moz-range-thumb {
 .escala-intervalo {
   display:flex;
   justify-content:space-between;
-  color:#a89b9c;
+  color:#5f5557;
   font-size:8px
 }
 .resultados {
@@ -189,7 +189,7 @@ input[type=range]::-moz-range-thumb {
   border-radius:10px
 }
 .resultados article>span {
-  color:#aa8981;
+  color:#62504a;
   font-size:8px
 }
 .resultados strong {
@@ -201,12 +201,12 @@ input[type=range]::-moz-range-thumb {
 }
 .resultados small {
   font-size:10px;
-  color:#9a8d8d
+  color:#5f5557
 }
 .premissa {
   font-size:10px;
   line-height:1.7;
-  color:#9a8d8d;
+  color:#5f5557;
   margin:19px 0 0
 }
 .principios {
@@ -223,7 +223,7 @@ input[type=range]::-moz-range-thumb {
 .principios p {
   font-size:11px;
   line-height:1.6;
-  color:#887b7e;
+  color:#5f5557;
   margin:0
 }
 .principios strong {
@@ -232,7 +232,7 @@ input[type=range]::-moz-range-thumb {
 footer {
   border-top:1px solid var(--linha);
   padding:19px 0 30px;
-  color:#a48f8c;
+  color:#5f4a49;
   font-size:8px
 }
 @media(max-width:700px) {
